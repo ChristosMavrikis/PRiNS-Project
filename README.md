@@ -1,6 +1,6 @@
 # PRiNS-Project
 Project for PRiNS for cream cheese data
-<b> Acknowledgments  <b>
+## Acknowledgments  
 M. B. Frøst
 The influence of fat content on sensory properties and consumer perception of dairy products.
 Ph.D. thesis, The Royal Veterinary and Agricultural University, 2002
