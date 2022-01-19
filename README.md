@@ -4,7 +4,7 @@ Before running any script run the cheese.m to load the data and other important 
 The scripts are adaptions to the tutorials taught in the course.
 The rep also containts extra material and images and also the presentations.
 ## Contributors
-Christos Mavrikis \b
+Christos Mavrikis \
 Bram van der Venne
 ## Acknowledgments  
 
